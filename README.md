@@ -13,7 +13,7 @@ A simple command-line application written in Rust to convert temperatures betwee
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/cod-e-codes/rust-temp-converter.git
+   git clone https://github.com/Cod-e-Codes/rust-temp-converter.git
    cd rust-temp-converter
    ```
 2. Build the project:
